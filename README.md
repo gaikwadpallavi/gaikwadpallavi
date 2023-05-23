@@ -76,11 +76,11 @@
 
 <br>
         
-<!-- <p align="center">
+< <p align="center">
     <a href="https://gaikwadpallavi.github.io/My-Profile/" target+"_blank" >
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaikwadpallavi&theme=default" height="200em">
   </a>
-<p> -->
+<p> >
 
 <p align="center">
   <a href="https://gaikwadpallavi.github.io/My-Profile/">
