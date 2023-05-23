@@ -76,14 +76,5 @@
 
 <br>
         
-< <p align="center">
-    <a href="https://gaikwadpallavi.github.io/My-Profile/" target+"_blank" >
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaikwadpallavi&theme=default" height="200em">
-  </a>
-<p> >
 
-<p align="center">
-  <a href="https://gaikwadpallavi.github.io/My-Profile/">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaikwadpallavi&repo=github-readme-stats" height="200em"/>
-  </a>
-</p>
+
