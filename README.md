@@ -57,6 +57,7 @@
     <a href="https://www.mysql.com/" target+"_blank" ><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20em"></a>
     <a href="https://github.com/" target+"_blank" ><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20em"></a>
     <a href="https://www.sqlite.org/" target+"_blank" ><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="20em"></a>
+    <a href="https://dbeaver.com/" target+"_blank" ><img alt="DBeaver" src="https://th.bing.com/th/id/OIP.69ktAAlWQSJL2F-Yi8l4aQHaDt?pid=ImgDet&rs=1" height="20em"></a>
    
 </p>
 
