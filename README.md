@@ -45,7 +45,7 @@
     <a href="https://www.tableau.com/" target+"_blank" ><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="25em"></a>
     <a href="https://flask.palletsprojects.com/" target+"_blank" ><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25em"></a>
     <a href="https://www.json.org/" target+"_blank" ><img alt="Json" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25em"></a>
-    <a href="https://keras.io/about/" target+"_blank" ><img alt="Keras" src="https://th.bing.com/th/id/OIP.Be5o6RTTkZyPg0eIZsXZkQHaEK?w=314&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="25em"></a>
+    <a href="https://keras.io/about/" target+"_blank" ><img alt="Keras" src="https://th.bing.com/th/id/OIP.Be5o6RTTkZyPg0eIZsXZkQHaEK?" height="25em"></a>
   <a href="https://www.tensorflow.org/" target+"_blank" ><img alt="Tensorflow" src="https://th.bing.com/th/id/OIP.QLGDZ9lwwGuxE_uH6muvOAHaHD?w=184&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="25em"></a>
 </p>
 
