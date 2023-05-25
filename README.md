@@ -4,14 +4,14 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Scientist;Data%20Visionary;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
 </p>
 
 <br>
 
 <p align="center">
     <!--Twitter, LinkedIn, Hashnode, Kaggle -->
-    <a href="https://www.linkedin.com/in/gaikwadpallavi/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a> 
+    <a href="https://www.linkedin.com/in/gaikwadpallavi/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="27em"></a> 
     <a href="gaikwadpallavi110@gmail.com" target+"_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" alt="Email Me" title="Email Me"/></a>
     
 </p>
