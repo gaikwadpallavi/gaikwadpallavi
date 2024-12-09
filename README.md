@@ -12,7 +12,6 @@
 <p align="center">
     <!--Twitter, LinkedIn, Hashnode, Kaggle -->
     <a href="https://www.linkedin.com/in/gaikwadpallavi/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a> 
-    <a href="gaikwadpallavi110@gmail.com" target+"_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" alt="Email Me" title="Email Me"/></a>
     
 </p>
 
